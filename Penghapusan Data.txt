@@ -1,0 +1,28 @@
+Penghapusan Data
+
+Terima kasih telah menggunakan aplikasi Percetakan. Kami sangat menghargai privasi dan keamanan data Anda. Jika Anda ingin menghapus data yang tersimpan pada aplikasi kami, silakan ikuti petunjuk di bawah ini:
+
+Buka Aplikasi Percetakan
+
+Buka aplikasi Percetakan di perangkat Anda.
+Akses Pengaturan
+
+Pada layar utama aplikasi, cari dan ketuk ikon Pengaturan (biasanya berupa ikon gear atau tiga titik vertikal).
+Pilih Pengaturan Privasi
+
+Di dalam menu Pengaturan, cari dan ketuk opsi "Pengaturan Privasi" atau "Privasi".
+Pilih Hapus Data
+
+Di dalam Pengaturan Privasi, Anda akan melihat opsi "Hapus Data" atau "Reset Data". Ketuk opsi tersebut.
+Konfirmasi Penghapusan Data
+
+Aplikasi akan menampilkan peringatan untuk mengkonfirmasi bahwa Anda ingin menghapus semua data yang tersimpan. Ketuk "Ya" atau "Hapus" untuk melanjutkan.
+Tunggu Proses Selesai
+
+Proses penghapusan data akan berjalan, dan Anda akan diberitahu ketika selesai. Mohon tunggu hingga proses selesai.
+Data Berhasil Dihapus
+
+Setelah data berhasil dihapus, Anda akan kembali ke layar utama aplikasi. Data yang sebelumnya tersimpan sudah tidak ada lagi.
+Jika Anda mengalami kesulitan atau memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi tim dukungan kami di [email atau nomor kontak]. Kami siap membantu Anda.
+
+Terima kasih atas penggunaan aplikasi Percetakan. Semoga aplikasi kami dapat membantu memenuhi kebutuhan cetak Anda dengan mudah dan nyaman.
